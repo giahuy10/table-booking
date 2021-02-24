@@ -1,0 +1,33 @@
+{
+  "name": "table-booking-ui",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/pwa": "^3.3.5",
+    "body-parser": "^1.19.0",
+    "cookieparser": "^0.1.0",
+    "core-js": "^3.8.3",
+    "express": "^4.17.1",
+    "js-cookie": "^2.2.1",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.33",
+    "mysql2": "^2.2.5",
+    "nuxt": "^2.14.12",
+    "pusher-js": "^7.0.3",
+    "sequelize": "^6.5.0",
+    "vue-currency-input": "^1.22.6",
+    "vue-moment": "^4.1.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/vuetify": "^1.11.3",
+    "sequelize-cli": "^6.2.0"
+  }
+}
